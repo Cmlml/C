@@ -1,0 +1,43 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.33.31630.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/陈家谦/desktop/c#/论文查重/论文查重/源.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "619ff520dd9934999c6678007c512b0aaeef99f9620b24a7baf64d37e08e0e42"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/陈家谦/desktop/c#/论文查重/论文查重/main.h"
+          },
+          "hashes": {
+            "sha-256": "0d013db980f6c3cf407d7302e3f4427fb1b2c988368ec9d7843ca764fbfdfa94"
+          }
+        }
+      ]
+    }
+  ]
+}

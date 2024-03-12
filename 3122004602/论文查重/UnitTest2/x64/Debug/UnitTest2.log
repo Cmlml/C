@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest2.cpp
+C:\Users\陈家谦\Desktop\C(36,21): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“/UnitTest2.cpp”)
+  
+C:\Users\陈家谦\Desktop\C(40,22): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“/UnitTest2.cpp”)
+  
+    正在创建库 C:\Users\陈家谦\Desktop\C#\论文查重\x64\Debug\UnitTest2.lib 和对象 C:\Users\陈家谦\Desktop\C#\论文查重\x64\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> C:\Users\陈家谦\Desktop\C#\论文查重\x64\Debug\UnitTest2.dll

@@ -1,0 +1,8 @@
+﻿  UnitTest1.cpp
+C:\Users\陈家谦\Desktop\C(37,21): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“/UnitTest1.cpp”)
+  
+C:\Users\陈家谦\Desktop\C(41,22): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“/UnitTest1.cpp”)
+  
+  UnitTest1.vcxproj -> C:\Users\陈家谦\Desktop\C#\论文查重\x64\Debug\UnitTest1.dll
